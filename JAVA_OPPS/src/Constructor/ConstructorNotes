@@ -1,2 +1,7 @@
 Constructor: 
 A constructor in Java is a special type of method used to initialize objects. 
+
+
+Constructor overloading 
+in a java  constructor is  just like  a method but without return  type .it can  also be  overloaded like java method
+
